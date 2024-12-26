@@ -1,0 +1,4 @@
+Ivanov.K.L IU2-12 11 4 5 4 2
+Oregov.U.D MT4-32 12 3 3 3 2
+Petrova.O.P E8-23 13 5 4 5 5
+Pavlov.P.P IU10-11 14 3 4 3 4

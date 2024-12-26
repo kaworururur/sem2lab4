@@ -1,0 +1,14 @@
+Name: Petrova.O.P, Group: E8-23, ID: 13, Grades: 5 4 5 5 
+Name: Ivanov.K.L, Group: IU2-12, ID: 11, Grades: 4 5 4 2 
+Name: Pavlov.P.P, Group: IU10-11, ID: 14, Grades: 3 4 3 4 
+Name: Oregov.U.D, Group: MT4-32, ID: 12, Grades: 3 3 3 2 
+
+Name: Petrova.O.P, Group: E8-23, ID: 13, Grades: 5 4 5 5 
+Name: Ivanov.K.L, Group: IU2-12, ID: 11, Grades: 4 5 4 2 
+Name: Pavlov.P.P, Group: IU10-11, ID: 14, Grades: 3 4 3 4 
+Name: Oregov.U.D, Group: MT4-32, ID: 12, Grades: 3 3 3 2 
+
+Name: Petrova.O.P, Group: E8-23, ID: 13, Grades: 5 4 5 5 
+Name: Ivanov.K.L, Group: IU2-12, ID: 11, Grades: 4 5 4 2 
+Name: Pavlov.P.P, Group: IU10-11, ID: 14, Grades: 3 4 3 4 
+Name: Oregov.U.D, Group: MT4-32, ID: 12, Grades: 3 3 3 2 
